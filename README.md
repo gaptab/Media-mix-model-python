@@ -11,7 +11,7 @@ Linear Regression: Explains variability in sales as a function of transformed ma
 
 ROI Estimation: Quantifies the marginal impact of each channel.
 
-Key Takeaways
+Key Takeaways:
 
 Use adstock_transform to model lagged effects of advertising.
 
